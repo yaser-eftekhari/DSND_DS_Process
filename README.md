@@ -31,9 +31,9 @@ We thought the columns of the dataset are a good representative of the parameter
 - Region where the person lives in
 
 ### The most important factor for your insurance
-After fitting our model to the data (and being able to predict with %70 accuracy), we investigated the weights of the coefficients in the model. The highest weight, by far, was smoking.
+After fitting our model to the data (and being able to predict with almost %77 accuracy), we investigated the weights of the coefficients in the model. The highest weight, by far, was smoking.
 
-### Gender biad
+### Gender bias
 Through our analysis, we realized the coefficient for gender (i.e., sex) was the lowest weight, indicating there is no strong correlation between gender and insurance cost, at least from this dataset.
 
 ## Project structure
